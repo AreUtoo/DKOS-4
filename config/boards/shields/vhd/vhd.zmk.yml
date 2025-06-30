@@ -1,0 +1,12 @@
+file_format: "1"
+id: vhd
+name: vhd
+type: shield
+url: 
+requires: [pro_micro]
+features:
+  - keys
+  - underglow
+siblings:
+  - vhd_left
+  - vhd_right

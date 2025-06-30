@@ -1,0 +1,9 @@
+# Copyright (c) 2025 VEXC HOW DESIGN
+# Copyright (c) 2020 Pete Johanson
+# SPDX-License-Identifier: MIT
+
+config SHIELD_vhd_LEFT
+    def_bool $(shields_list_contains,vhd_left)
+
+config SHIELD_vhd_RIGHT
+    def_bool $(shields_list_contains,vhd_right)
