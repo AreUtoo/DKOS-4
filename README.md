@@ -1,4 +1,4 @@
-# VHD Designer Keyboard - DKOS 4 (Demo)
+# VHD Designer Keyboard - DKOS 4
 
 This is the official VHD Designer Keyboard config for the ZMK keymap editor
 
