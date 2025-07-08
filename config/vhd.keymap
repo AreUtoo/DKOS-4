@@ -157,7 +157,7 @@
 &bootloader    &trans         &trans         &trans         &trans         &trans         &trans  &trans  &trans        &trans        &trans         &kp K_MUTE       &kp C_VOL_DN  &kp C_VOLUME_UP
 &bt BT_SEL 0   &bt BT_SEL 1   &bt BT_SEL 2   &bt BT_SEL 3   &bt BT_SEL 4   &trans         &trans  &trans  &trans        &trans        &kp PAGE_UP    &kp C_VOLUME_UP  &kp C_PLAY    &trans
 &bt BT_DISC 0  &bt BT_DISC 1  &bt BT_DISC 2  &bt BT_DISC 3  &bt BT_DISC 4  &trans         &trans  &trans  &trans        &out OUT_USB  &kp PAGE_DOWN  &kp C_VOL_DN     &kp K_STOP    &trans
-&trans         &trans         &trans         &trans         &trans         &trans         &trans  &trans  &trans        &trans        &trans         &kp K_MUTE       &kp K_PREV    &trans
+&B1            &trans         &trans         &trans         &trans         &trans         &trans  &trans  &trans        &trans        &trans         &kp K_MUTE       &kp K_PREV    &trans
 &trans         &trans         &trans         &trans         &trans         &kp LA(LS(V))                  &out OUT_BLE  &trans        &trans         &trans           &kp K_NEXT    &trans
             >;
         };
